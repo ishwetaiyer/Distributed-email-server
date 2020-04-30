@@ -1,3 +1,5 @@
+UCI CS 230 : Winter 2020
+
 Running the mail server: 
 python3 mail_server.py 
 
